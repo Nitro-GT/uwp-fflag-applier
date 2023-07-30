@@ -1,2 +1,2 @@
-# UWP FFlag Applier
-This only works if your user directory is named Windows 10
+https://github.com/Nitrowo-rblx/real/blob/main/bloxRo.bat
+use that one^
